@@ -13,7 +13,7 @@ on:
       MANIFEST_URL:
         description: 'TWRP Manifest'
         required: true
-        default: 'https://github.com/VastCore/manifest_twrp'
+        default: 'https://github.com/VastCore/TWRP-Manifest'
       MANIFEST_BRANCH:
         description: 'TWRP Manifest Branch'
         required: true
