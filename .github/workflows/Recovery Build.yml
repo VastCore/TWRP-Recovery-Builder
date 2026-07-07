@@ -21,7 +21,7 @@ on:
       DEVICE_TREE:
         description: 'TWRP Device Tree'
         required: true
-        default: 'https://github.com/VastCore/recovery_alioth.git'
+        default: 'https://github.com/VastCore/TWRP-Recovery-Alioth.git'
       DEVICE_TREE_BRANCH:
         description: 'TWRP Device Tree Branch'
         required: true
